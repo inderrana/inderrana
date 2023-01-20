@@ -6,7 +6,7 @@ Data Scientist & Analyst
 
 I've been doing data analytics for 7 years and after learning data science for the last 2 years I've shifted my career to data science & AI.
 
-* 🌍  I'm based in Utrecht, The Netherlands
+* 🌍  I'm based in the Netherlands
 * 🤝  I'm open to collaborating on predictive analytics
 
 ### Skills
