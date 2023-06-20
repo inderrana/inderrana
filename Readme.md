@@ -1,7 +1,7 @@
 Hi 👋 My name is Inder
 ======================
 
-Data Scientist & Analyst
+Data Scientist
 ------------------------
 
 I've been doing data analytics for more then 8 years.
