@@ -4,7 +4,7 @@ Hi 👋 My name is Inder
 Data Scientist
 ------------------------
 
-I've been doing data analytics for more then 8 years.
+I've been doing data analytics for more then 10 years.
 
 * 🌍  I'm based in the Netherlands
 * 🤝  I'm open to collaborating on predictive analytics
