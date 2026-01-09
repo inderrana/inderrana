@@ -120,15 +120,6 @@ Let's work on something good. 🚀
 
 ---
 
-## 📊 My GitHub Stats
-
-<a href="http://www.github.com/inderrana"><img src="https://github-readme-stats.vercel.app/api?username=inderrana&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true&theme=radical" alt="inderrana's GitHub stats" /></a>
-
-
-<a href="https://github.com/inderrana"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inderrana&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=inderrana&theme=hacker" alt="GitHub Streak" /></a>
----
 
 ## ☕ Support Me
 
